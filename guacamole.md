@@ -4,8 +4,12 @@
 
 - avocado
 - onion
-- lemon
+- cilantro
 - salt
 - pepper
+- lemon
 
-*slice ingredients*
+## Instructions 
+- **cut lemon, cilantro, avocado**
+- **add ingredients to bowl**
+- **stir**
