@@ -3,6 +3,7 @@
 ## Ingredients
 
 - avocado
+- onion
 - cilantro
 - salt
 - pepper
