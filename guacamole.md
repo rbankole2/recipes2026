@@ -3,4 +3,4 @@
 ## Ingredients
 
 - avocado
--vrrr
+- con salsa y picante y no fuimos
